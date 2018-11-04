@@ -1,0 +1,3 @@
+Options +Indexes
+IndexOptions -FancyIndexing
+ErrorDocument 404 http://www.JonThompson.ca/404page.html
